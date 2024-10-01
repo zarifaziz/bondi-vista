@@ -47,7 +47,7 @@ export default function LandingPage() {
       <main className="flex-1">
         <section className="relative w-full h-screen">
           <Image
-            src="/placeholder.svg"
+            src="/assets/landing-page-photo.svg"
             alt="Bondi Vista Apartment Development"
             layout="fill"
             objectFit="cover"
